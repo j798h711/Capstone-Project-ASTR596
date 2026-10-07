@@ -1,1 +1,1 @@
-# Capstone-Project---ASTR596-
+# Capstone-Project-ASTR596
