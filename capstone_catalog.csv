@@ -1,14 +1,14 @@
 file,name,xcen,ycen,sma,smina,ellip,PA,rlinin,rlinout,notes
-../../Data/Capstone/NGC 1-image-g.fits.fz,NGC 1,2022,1224,104,72,0.307692307692308,9,-99,-99,
-../../Data/Capstone/Z 190-31-image-g.fits.fz,Z 190-31,1249,1781,91,65,0.285714285714286,42,-99,-99,
-../../Data/Capstone/NGC 5169-image-g.fits.fz,NGC 5169,1409,728,144,51,0.645833333333333,8,-99,-99,
-../../Data/Capstone/NGC 6643-image-g.fits.fz,NGC 6643,2389,2724,222,93,0.581081081081081,130.4,-99,-99,
-../../Data/Capstone/IC 749-image-g.fits.fz,IC 749,279,1574,124,114,0.0806451612903226,0,-99,-99,EDGE
-../../Data/Capstone/M95-image-g.fits.fz,M95,1995,1173,546,387,0.291208791208791,92,-99,-99,
-../../Data/Capstone/NGC 1094-image-g.fits.fz,NGC 1094,1584,1837,268,98,0.634328358208955,9,-99,-99,
-../../Data/Capstone/NGC 5440-image-g.fits.fz,NGC 5440,2430,1914,237,77,0.675105485232067,136,-99,-99,STAR
-../../Data/Capstone/NGC 1087-image-g.fits.fz,NGC 1087,2090,1739,144,88,0.388888888888889,88,-99,-99,
-../../Data/Capstone/M99-image-g.fits.fz,M99,2714,666,351,319,0.0911680911680912,0,-99,-99,
-../../Data/Capstone/NGC 5633-image-g.fits.fz,NGC 5633,2105,387,152,107,0.296052631578947,105,-99,-99,
-../../Data/Capstone/NGC 47-image-g.fits.fz,NGC 47,2115,2931,125,107,0.144,0,-99,-99,
-../../Data/Capstone/NGC 4711-image-g.fits.fz,NGC 4711,472,2936,111,60,0.459459459459459,139,-99,-99,
+../../Data/Capstone/IC 749-image-g.fits.fz,IC 749,279,1574,124,114,0.0806451612903226,0,25,100,EDGE
+../../Data/Capstone/M95-image-g.fits.fz,M95,1995,1173,546,387,0.291208791208791,92,62.5,245,
+../../Data/Capstone/M99-image-g.fits.fz,M99,2714,666,351,319,0.0911680911680912,0,47.5,255,
+../../Data/Capstone/NGC 1-image-g.fits.fz,NGC 1,2022,1224,104,72,0.307692307692308,9,20,70,
+../../Data/Capstone/NGC 1087-image-g.fits.fz,NGC 1087,2090,1739,144,88,0.388888888888889,88,25,140,
+../../Data/Capstone/NGC 1094-image-g.fits.fz,NGC 1094,1584,1837,268,98,0.634328358208955,9,35,175,
+../../Data/Capstone/NGC 47-image-g.fits.fz,NGC 47,2115,2931,125,107,0.144,0,15,62.5,
+../../Data/Capstone/NGC 4711-image-g.fits.fz,NGC 4711,472,2936,111,60,0.459459459459459,139,15,67.5,
+../../Data/Capstone/NGC 5169-image-g.fits.fz,NGC 5169,1409,728,144,51,0.645833333333333,8,13,45,
+../../Data/Capstone/NGC 5440-image-g.fits.fz,NGC 5440,2430,1914,237,77,0.675105485232067,136,20,75,STAR
+../../Data/Capstone/NGC 5633-image-g.fits.fz,NGC 5633,2105,387,152,107,0.296052631578947,105,15,76,
+../../Data/Capstone/NGC 6643-image-g.fits.fz,NGC 6643,2389,2722,306,144,0.529411764705882,135,25,125,WEIRD FIT
+../../Data/Capstone/Z 190-31-image-g.fits.fz,Z 190-31,1249,1781,91,65,0.285714285714286,42,20,70,
